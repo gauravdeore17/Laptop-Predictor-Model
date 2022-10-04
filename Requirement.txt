@@ -1,0 +1,22 @@
+Note:
+
+   1. Install the streamlit and sklearn library on your system .
+
+   2. After Completing the requirement Run app.py file.
+      
+    
+   3. Then if the program is not run properly just change the location of the Directory .
+             as command = cd <Directory Name>:\<"Laptop Predictor Model">
+             ex = cd  D:\'Laptop Predictor Model'
+             ( cd command will change your current directory
+   
+   4. After completing the path then Enter the Command ,
+                            streamlit run app.py 
+  
+   5. The web page is open after this command and the Project is ready to use .
+
+
+
+                                      Thank You
+ 
+   
